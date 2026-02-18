@@ -63,4 +63,4 @@ The project was engineered to solve three critical commercial challenges:
 ### 🖥️ Screenshot
 Below is a snapshot of the **RPMS** dashboard, designed for clarity and executive-level navigation:
 
-![Revenue Performance Monitoring System Dashboard](https://github.com/Bhargavi-Teki/Revenue-Performance-Monitoring-System/blob/main/RPMS_Executive_Overview.png.png))]
+![Revenue Performance Monitoring System Dashboard](https://github.com/Bhargavi-Teki/Revenue-Performance-Monitoring-System/blob/main/RPMS_Executive_Overview.png.png)
