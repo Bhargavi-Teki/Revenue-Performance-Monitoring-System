@@ -56,11 +56,15 @@ The analysis is based on the **Global Retail Operations Dataset** (sourced from 
 
 ## 💡 Strategic Insights
 
-1.Smartphone Dominance: Generated ~$78.9M (60%+ of total revenue), indicating strong market fit but high portfolio dependency.
-2.Operational Benchmark: Rank A1 (Store 1) locations contribute nearly 50% of global revenue, establishing a clear model for upskilling lower-tier outlets.
-3.Seasonality: Significant Q1 contraction observed between 2019–2020, highlighting a need for more resilient early-year marketing strategies.
-4.Diversification: Accessories and Tablet segments present clear opportunities to reduce product concentration risk.
-5.Market Expansion: Revenue distribution indicates regional dominance in specific markets, suggesting high-potential zones for targeted expansion.
+**1.Smartphone Dominance:** Generated ~$78.9M (60%+ of total revenue), indicating strong market fit but high portfolio dependency.
+
+**2.Operational Benchmark:** Rank A1 (Store 1) locations contribute nearly 50% of global revenue, establishing a clear model for upskilling lower-tier outlets.
+
+**3.Seasonality:** Significant Q1 contraction observed between 2019–2020, highlighting a need for more resilient early-year marketing strategies.
+
+**4.Diversification:** Accessories and Tablet segments present clear opportunities to reduce product concentration risk.
+
+**5.Market Expansion:** Revenue distribution indicates regional dominance in specific markets, suggesting high-potential zones for targeted expansion.
 
 ---
 
