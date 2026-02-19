@@ -75,5 +75,4 @@ The analysis is based on the **Global Retail Operations Dataset** (sourced from 
 
 ## 📊 Dashboard Preview
 
-![RPMS Dashboard](https://github.com/Bhargavi-Teki/Revenue-Performance-Monitoring-System/blob/main/RPMS_Executive_Overview.png.png)
-
+![RPMS Dashboard](https://github.com/Bhargavi-Teki/Revenue-Performance-Monitoring-System/blob/main/RPMS_Executive_Overview.png)
