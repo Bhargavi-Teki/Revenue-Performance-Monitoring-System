@@ -7,6 +7,12 @@ The objective of this project is to transform multi-year transactional data into
 
 ---
 
+## 📊 Dashboard Preview
+
+![RPMS Dashboard](https://github.com/Bhargavi-Teki/Revenue-Performance-Monitoring-System/blob/main/RPMS_Executive_Overview.png)
+
+---
+
 ## 🎯 Business Objectives
 
 - Analyze the 25.8% Year-over-Year revenue shift (2019–2020)
@@ -74,9 +80,3 @@ The analysis is based on the **Global Retail Operations Dataset** (sourced from 
 * Writing optimized DAX measures
 * Structuring automated ETL workflows in Power Query
 * Designing executive-level visual narratives
-
----
-
-## 📊 Dashboard Preview
-
-![RPMS Dashboard](https://github.com/Bhargavi-Teki/Revenue-Performance-Monitoring-System/blob/main/RPMS_Executive_Overview.png)
